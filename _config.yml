@@ -1,0 +1,8 @@
+timezone:       Europe/Amsterdam
+exclude:		    ["CNAME", README.md", ".gitignore"]
+collections:
+  wiki:
+    output: true
+    permalink: /item/:path/
+gems:
+  - jekyll-redirect-from
