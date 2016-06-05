@@ -1,5 +1,5 @@
-timezone:       Europe/Amsterdam
-exclude:		    ["CNAME", README.md", ".gitignore"]
+timezone:				Europe/Amsterdam
+exclude:				["CNAME", README.md", ".gitignore"]
 collections:
   wiki:
     output: true
