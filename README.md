@@ -5,7 +5,7 @@ Thank you for considering to contribute to the Unturned Database and Wiki. Pleas
 
 # Contributing
 Most of the item and vehicle data is gathered from Unturned's Game Data files.
-However, extra information, text and images can be added to each item by creating a file in the `wiki` folder.
+However, extra information, text and images can be added to each item by creating a file in the `_wiki` folder.
 
 An example file `328.md` for extra information for the item `Locker` with item ID `328`, in [Markdown](https://guides.github.com/features/mastering-markdown/) format:
 
