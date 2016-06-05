@@ -4,5 +4,3 @@ collections:
   wiki:
     output: true
     permalink: /item/:path/
-gems:
-  - jekyll-redirect-from
