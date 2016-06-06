@@ -2,6 +2,8 @@
 
 Thank you for considering to contribute to the Unturned Database and Wiki. Please read the information below carefully before making a pull request.
 
+-> [Wiki Completion Status](https://github.com/unturnedwiki/wiki/issues/1) <-
+
 
 # Contributing
 Most of the item and vehicle data is gathered from Unturned's Game Data files.
