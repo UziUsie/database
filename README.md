@@ -2,7 +2,7 @@
 
 Thank you for considering to contribute to the Unturned Database and Wiki. Please read the information below carefully before making a pull request.
 
--> [Wiki Completion Status](https://github.com/unturnedwiki/wiki/issues/1) <-
+-> [Wiki Completion Status](https://github.com/unturnedwiki/database/issues/1) <-
 
 
 # Contributing
@@ -27,9 +27,9 @@ will drop on the ground.
 
 ## Step by step
 
-1. Fork this repository: https://github.com/unturnedwiki/wiki/fork
+1. Fork this repository: https://github.com/unturnedwiki/database/fork
 2. Commit your changes to your fork.
-3. Create a pull request: https://github.com/unturnedwiki/wiki/compare
+3. Create a pull request: https://github.com/unturnedwiki/database/compare
 4. Await approval from your pull request.
 
 ## File format
